@@ -1,0 +1,23 @@
+{
+  "name": "protractor",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korkoza/protractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korkoza/protractor/issues"
+  },
+  "homepage": "https://github.com/korkoza/protractor#readme"
+}
